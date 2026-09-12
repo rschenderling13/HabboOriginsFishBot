@@ -3,5 +3,4 @@ numpy
 pyautogui
 mss
 keyboard
-pywin32
 PyGetWindow
